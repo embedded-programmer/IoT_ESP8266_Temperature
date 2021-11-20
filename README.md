@@ -3,4 +3,4 @@ Room Temperature Monitoring on Web Page using ESP8266 (NodeMCU)
 # Schematic with Ds18b20 & NodeMCU
 ![Screenshot](Schematic.png)
 # Result
-![Screenshot](IoT-Temp-Web.png)
+![Screenshot](IoT-Temp-Web.JPG)
